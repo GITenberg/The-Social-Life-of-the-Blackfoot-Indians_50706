@@ -1,4 +1,8 @@
 _repo: The-Social-Life-of-the-Blackfoot-Indians_50706
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50706-h/images/cover.jpg
 creator:
   author:
     agent_name: Wissler, Clark
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '37997'
     url: http://www.gutenberg.org/2009/agents/37997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50706#The-Social-Life-of-the-Blackfoot-Indians
 gutenberg_issued: '2015-12-17'
 gutenberg_type: Text
 identifiers:
